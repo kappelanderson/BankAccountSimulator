@@ -1,4 +1,6 @@
 # BankAccountSimulator
+![image](https://user-images.githubusercontent.com/96890436/221989458-3ccafd75-7a90-425e-bc65-75f3c77a6839.png)
+
 
 # How this project works
 - The user has two accounts, he can assign the initial balance of both, deposit and withdraw, only one operation per program execution.

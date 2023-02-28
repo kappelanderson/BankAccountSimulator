@@ -1,5 +1,5 @@
 # BankAccountSimulator
-![image](https://user-images.githubusercontent.com/96890436/221989584-85e77bcd-da3c-4769-a91f-d15b41162848.png)
+![image](https://user-images.githubusercontent.com/96890436/221989962-203f65d4-449d-41d3-b4c7-40078d602b64.png)
 
 
 # How this project works
